@@ -1,0 +1,8 @@
+fgcom=reveal -l  ..
+total 36
+-rw-rw-r-- 1 Rishi Rishi 20352 Aug 30 23:37README.md
+-rw-r--r-- 1 Rishi Rishi    25 Sep 07 18:54a.txt
+-rw-r--r-- 1 Rishi Rishi     0 Sep 06 23:18a1.txt
+-rw-r--r-- 1 Rishi Rishi   323 Sep 11 00:13a2.txt
+drwxrwxr-x 4 Rishi Rishi  4096 Sep 11 13:27codes
+drwxrwxr-x 2 Rishi Rishi  4096 Sep 11 13:28images
