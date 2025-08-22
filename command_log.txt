@@ -1,0 +1,15 @@
+sleep 2
+sleep 3 &
+
+sleep 1 & sleep 10
+sleep 3 &
+touch a.txt
+wc < a.txt > a2.txt
+echo hello ; echo dwecw ; echo world
+> a.txt
+< a.txt
+sleep 10 & echo hello | sleep 20 &
+activities
+mk_hop aa
+mk_hop
+mk_hop aa
